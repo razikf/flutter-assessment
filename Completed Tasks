@@ -1,0 +1,16 @@
+Features
+
+All the data should store in persistent storage (done)
+Profile listing view(done)
+Able to sync data from API(done)
+Able to swipe to perform actions (edit/delete) UI (edit only)
+Able to delete profile
+Able to show favorite listing
+Able to filter (search) in the listing
+Able to goto email app onClick [Send Email] button (done)
+
+Profile detail view
+Able to make favorite / unfavorite
+Able to goto email app onClick [Send Email] button
+Manage profile view(done)
+Able to edit / delete profile
